@@ -1,0 +1,2 @@
+1. 1 conv layer with 32 filters (relu), 1 max-pooling 2x2, 1 hidden with 128 nodes (relu), 1 dropout with 0.5, 1 output (softmax) -> final acc 0.9595, loss 0.1732
+2. 1 conv layer with 32 filters (relu), 1 max-pooling 2x2, 2 hidden with 128 nodes (relu), 1 dropout with 0.5, 1 output (softmax) -> final acc 0.9708, loss 0.1396
